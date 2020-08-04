@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 76d0662570ef08340a594d41407deaa5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coinText: {instanceID: 0}
+  - coinSound: {fileID: 8300000, guid: 32ea8df2969f3dd41aa385fd91896991, type: 3}
+  - burgerSound: {instanceID: 0}
+  - drinkSound: {fileID: 8300000, guid: b57f76844a843bc4e889f2552d00c21a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
